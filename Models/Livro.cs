@@ -10,6 +10,6 @@ namespace lista_livros_razor.Models
         [Required]
         public string Nome { get; set; }
         
-        public int Autor { get; set; }
+        public string Autor { get; set; }
     }
 }
