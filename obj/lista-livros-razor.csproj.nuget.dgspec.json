@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {}
+    "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {
+    "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
+        "projectUniqueName": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
         "projectName": "lista-livros-razor",
-        "projectPath": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
+        "projectPath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
         "packagesPath": "C:\\Users\\Pélago Tecnologia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\obj\\",
+        "outputPath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
