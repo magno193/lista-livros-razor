@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {}
+    "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {
+    "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
+        "projectUniqueName": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
         "projectName": "lista-livros-razor",
-        "projectPath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
+        "projectPath": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\lista-livros-razor.csproj",
         "packagesPath": "C:\\Users\\Pélago Tecnologia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\obj\\",
+        "outputPath": "C:\\Users\\Pélago Tecnologia\\Desktop\\repos\\MVC (3.1) Curso\\ListaLivrosRazor\\lista-livros-razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
