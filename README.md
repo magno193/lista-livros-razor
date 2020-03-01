@@ -7,3 +7,6 @@ Primeiro projeto de livros utilizado Razor Pages
 ## Criação
 - ```dotnet new webapp -o lista-livros-razor```
 - ```code -r lista-livros-razor```
+
+## Pacotes 
+- Razor Runtime Compilation: ```dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation```
