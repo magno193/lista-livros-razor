@@ -1,0 +1,13 @@
+bin/Debug/
+obj/
+obj/lista-livros-razor.csproj.nuget.cache
+obj/lista-livros-razor.csproj.nuget.dgspec.json
+obj/lista-livros-razor.csproj.nuget.g.props
+obj/lista-livros-razor.csproj.nuget.g.targets
+obj/project.assets.json
+obj/Debug/netcoreapp3.1/lista-livros-razor.assets.cache
+obj/Debug/netcoreapp3.1/lista-livros-razor.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/lista-livros-razor.RazorAssemblyInfo.cache
+obj/Debug/netcoreapp3.1/lista-livros-razor.RazorAssemblyInfo.cs
+obj/Debug/netcoreapp3.1/project.razor.json
+

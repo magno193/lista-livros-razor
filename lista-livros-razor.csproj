@@ -5,6 +5,10 @@
     <RootNamespace>lista_livros_razor</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.2" />
+  </ItemGroup>
+
 
 
 </Project>
