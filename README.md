@@ -15,3 +15,9 @@ Primeiro projeto de livros utilizado Razor Pages
 - Entity Framework Core: ```dotnet add package Microsoft.EntityFrameworkCore```
 - SQL Server: ```dotnet add package Microsoft.EntityFrameworkCore.SqlServer```
 - Migration Tools: ```dotnet add package Microsoft.EntityFrameworkCore.Tools```
+ 
+ ### Migração inicial
+ ```
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+ ```
